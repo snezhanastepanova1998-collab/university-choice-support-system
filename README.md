@@ -12,4 +12,4 @@
 ![UML State Diagram](docs/diagrams/uml_state.png)
 
 4. ER-диаграмма базы данных
-![ER Diagram](docs/diagrams/er_diagram.png)
+![ER Diagram]([docs/diagrams/er_diagram.png](https://github.com/snezhanastepanova1998-collab/university-choice-support-system/blob/main/ER-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.drawio.png))
